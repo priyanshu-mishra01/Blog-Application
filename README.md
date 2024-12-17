@@ -102,3 +102,4 @@ This is a Spring Boot-based Blog Application that allows users to perform variou
 - Admin role (`ADMIN_ROLES`) is required for accessing endpoints related to users.
 - User role (`USER_ROLES`) is required for accessing endpoints related to posts, categories, comments, and retrieving user details.
 
+End
